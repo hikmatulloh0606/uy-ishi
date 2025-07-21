@@ -1,0 +1,64 @@
+h1{
+    color: blue;
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+
+}
+.s1{
+    background-color: yellow;
+}
+.s2{
+    color: red;
+    
+}
+h2{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+iframe{
+    border-radius: 20px;
+}
+form{
+    color: green;
+}
+button{
+    background-color: aqua;
+    color: white;
+}
+.ss{
+    width: 100%;
+}
+th, td{
+    border: 3px solid white;
+    color: white;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.p{
+    background-color: green;
+}
+.k{
+    background-color: red;
+}
+.v{
+    background-color: blue;
+}
+.w{
+    background-color: black;
+    
+}
+
+
+
+
+
+    
+
+ 
